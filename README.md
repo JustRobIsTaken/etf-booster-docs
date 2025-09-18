@@ -3,7 +3,7 @@
 Ein modulares **Python-basiertes Monitoring-Tool**, das aktuell über 600 nach Kriterien wie TER gefilterten ETF-Positionen (Datenbestand hat über 2600) überwacht, **antizyklische Kauf-/Verkaufssignale** erkennt und diese per **Telegram-Benachrichtigung** verschickt.  
 
 > ⚠️ **Hinweis:** Dieses Repository dient lediglich **Dokumentations- und Demonstrationszwecken**.  
-> Der eigentliche Code bleibt privat. Diese Unterlagen dienen zur **Strategie-, Architektur- und Konzeptübersicht**.
+> Der Quellcode ist vertraulich und wird nicht öffentlich bereitgestellt. Diese Unterlagen dienen zur **Strategie-, Architektur- und Konzeptübersicht**.
 
 ---
 
