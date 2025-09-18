@@ -34,8 +34,9 @@ Ein modulares **Python-basiertes Monitoring-Tool**, das aktuell über 600 nach K
 
 ## 📸 Demo – Telegram Alert  
 
-<img src="./assets/mdd-booster-demo.png" alt="ETF Booster Demo" width="500"/> 
-*Beispiel: Telegram-Benachrichtigung mit Valley-Ranking und Recovery-Infos.* 
+<img src="./assets/mdd-booster-demo.png" alt="ETF Booster Demo" width="500"/>  
+
+*Beispiel: Telegram-Benachrichtigung mit Valley-Ranking und Recovery-Infos. Dieser Screenshot dient nicht zur Finanzberatung.*  
 
 ---
 
